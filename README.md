@@ -62,7 +62,9 @@ AI-Assisted Engineering   → GitHub Copilot | Cursor AI
 ## 🧪 Test Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,playwright,java,typescript,maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,maven" height="48" />
 </p>
 
 **Selenium WebDriver • Playwright • Cucumber BDD • Page Object Model • Data-Driven Frameworks • Hybrid Frameworks • Maven**
@@ -72,7 +74,10 @@ AI-Assisted Engineering   → GitHub Copilot | Cursor AI
 ## 🔌 API & Database Testing
 
 <p>
-<img src="https://skillicons.dev/icons?i=postman,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
 </p>
 
 **REST API Testing • Postman • JSON/XML Validation • Oracle SQL • PostgreSQL • MongoDB • DynamoDB • Backend Validation**
