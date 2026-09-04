@@ -62,11 +62,11 @@ AI-Assisted Engineering   → GitHub Copilot | Cursor AI
 ## 🧪 Test Automation
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-1D8D22?logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
 </p>
 
 **Selenium WebDriver • Playwright • Cucumber BDD • Page Object Model • Data-Driven Frameworks • Hybrid Frameworks • Maven**
@@ -89,7 +89,10 @@ AI-Assisted Engineering   → GitHub Copilot | Cursor AI
 ## ⚙️ CI/CD & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,aws" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" />
 </p>
 
 **Jenkins • Git • GitHub • Continuous Integration • Continuous Testing • Pipeline Integration • AWS**
