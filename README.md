@@ -62,9 +62,11 @@ AI-Assisted Engineering   → GitHub Copilot | Cursor AI
 ## 🧪 Test Automation
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48" />
-  <img src="https://skillicons.dev/icons?i=java,typescript,maven" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" />
 </p>
 
 **Selenium WebDriver • Playwright • Cucumber BDD • Page Object Model • Data-Driven Frameworks • Hybrid Frameworks • Maven**
