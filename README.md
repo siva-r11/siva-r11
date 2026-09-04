@@ -1,181 +1,12 @@
-# Hi, I'm Siva R 👋
+# 👋 Hi, I'm Siva R
 
-### Senior QA Automation Engineer | SDET | Test Automation | API & Database Testing
-
-I’m a **Senior QA Automation Engineer / SDET** focused on building scalable, maintainable, and CI-ready automation solutions for enterprise applications.
-
-My core experience includes **Selenium WebDriver with Java, Cucumber BDD, Playwright with TypeScript, API testing, SQL/database validation, Jenkins CI/CD, AWS workflows, and AI-assisted test automation**.
-
-I enjoy building automation frameworks, improving test coverage, reducing regression effort, and sharing practical QA engineering examples through GitHub.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working in **QA Automation / SDET**
-- 🧪 Strong focus on **UI, API, Integration, End-to-End, Regression, Smoke, and Database Testing**
-- 🌐 Experienced with **Selenium + Java** and **Playwright + TypeScript**
-- 🔌 Hands-on with **Postman, REST API validation, JSON/XML validation**
-- 🗄️ Experienced in **Oracle SQL, PostgreSQL, MongoDB, and DynamoDB**
-- ⚙️ CI/CD experience with **Jenkins, Git, and continuous testing**
-- ☁️ Familiar with **AWS CloudWatch, Lambda, Step Functions, DynamoDB, and S3**
-- 🤖 Exploring **AI-assisted engineering with GitHub Copilot and Cursor AI**
-- 📚 Building and maintaining practical **Java, Selenium, Playwright, Cucumber, and TypeScript** learning projects
-- 🎯 Interested in **SDET, QA Automation, Test Automation, API Testing, and Database Testing** opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### 🧪 Test Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![POM](https://img.shields.io/badge/Page%20Object%20Model-333333?style=for-the-badge)
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔌 API & Data Validation
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ CI/CD & Version Control
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0B7A75?style=for-the-badge)
-
-### 🤖 AI-Assisted Engineering
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-
----
-
-## 📊 What I Work On
-
-```text
-UI Automation        → Selenium | Java | Cucumber | Playwright | TypeScript
-API Testing          → Postman | REST Validation | JSON/XML
-Database Testing     → Oracle | PostgreSQL | MongoDB | DynamoDB | SQL Validation
-Framework Design     → POM | BDD | Data-Driven | Hybrid Frameworks
-CI/CD                → Jenkins | Git | Continuous Testing
-Cloud Validation     → CloudWatch | Lambda | Step Functions | S3 | DynamoDB
-Quality Engineering  → Regression | Integration | E2E | Smoke | UAT
-AI-Assisted QA       → GitHub Copilot | Cursor AI | Prompt-Driven Test Generation
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🎭 Playwright + TypeScript Automation Framework
-A scalable automation framework for UI, API, and hybrid testing using **Playwright + TypeScript**, including POM, API clients, fixtures, environment configuration, reporting, parallel execution, and CI workflows.
-
-👉 [View Repository](https://github.com/siva-r11/playwright-ts-framework)
-
-### 🥒 Selenium + Cucumber BDD Hybrid Framework
-A Java-based hybrid framework combining **Selenium, Cucumber BDD, REST Assured, JSON Schema validation, Allure reporting, parallel execution, and CI**.
-
-👉 [View Repository](https://github.com/siva-r11/cucumber-hybrid-framework)
-
-### 🏦 Playwright ParaBank Automation
-A Playwright/TypeScript automation project demonstrating practical web application test automation.
-
-👉 [View Repository](https://github.com/siva-r11/playwright-parabank)
-
-### 🏦 ParaBank Automation
-A Java-based automation project focused on web UI testing.
-
-👉 [View Repository](https://github.com/siva-r11/Parabank-automation)
-
-### 📘 Java & Selenium Notes
-Practical notes and examples covering Java and Selenium concepts useful for QA/SDET interview preparation and automation development.
-
-👉 [View Repository](https://github.com/siva-r11/Java-Selenium-Notes)
-
-### 💳 SwiftPay Bank
-A demo banking application project focused on creating and validating realistic application workflows.
-
-👉 [View Repository](https://github.com/siva-r11/SwiftPay-Bank)
-
----
-
-## 💼 Professional Experience
-
-### Senior QA Automation Engineer / SDET
-**Cognizant | Aug 2022 – Present**
-
-- Designed and maintained scalable **Selenium + Java + Cucumber BDD/POM** and **Playwright + TypeScript** automation frameworks.
-- Automated **300+ UI and API test cases** across functional, regression, and smoke suites.
-- Reduced manual regression effort by approximately **60%**.
-- Built modular, data-driven automation libraries to improve reusability and development speed.
-- Integrated automation suites into **Jenkins CI/CD pipelines** for continuous testing.
-- Performed backend and data validation using **Oracle SQL, PostgreSQL, MongoDB, and DynamoDB**.
-- Worked with AWS services including **CloudWatch, Lambda, Step Functions, DynamoDB, and S3**.
-- Led defect root-cause analysis and supported Agile/Scrum quality engineering practices.
-- Used **GitHub Copilot and Cursor AI** to accelerate test development, improve locator strategies, and expand edge-case coverage.
-
----
-
-## 🏥 Domain Experience
-
-**Healthcare | Pharmacy | Credentialing | CRM | Patient & Prescription Workflows**
-
-I have worked on regulated enterprise applications involving:
-
-- Patient engagement and prescription workflows
-- Pharmacy onboarding and credentialing
-- Physician and patient management
-- Prescription lifecycle and shipment tracking
-- SMS-based healthcare workflows
-- Compliance-heavy validation processes
-
----
-
-## 🏆 Certifications & Achievements
-
-- **Vibe Code Hackathon — GitHub Copilot**
-- **Claude Certified Architect – Foundations**
-- Experience applying **AI-assisted engineering** to automation and test design
-
----
-
-## 📚 Currently Building & Learning
-
-- Advanced **Playwright + TypeScript** automation
-- Enterprise-grade **Selenium + Java** frameworks
-- **API automation** and contract validation
-- **SQL and database testing**
-- CI/CD-driven continuous testing
-- AI-assisted QA and test automation
-- Practical automation projects for SDET interview preparation
-
----
-
-## 📈 GitHub Activity
+### 🚀 Senior QA Automation Engineer | SDET | Automation Framework Architect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siva-r11&show_icons=true&theme=tokyonight&hide_border=true" alt="Siva's GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Senior+QA+Automation+Engineer;SDET+%7C+Test+Automation+Engineer;Selenium+%7C+Playwright+%7C+Java+%7C+TypeScript;API+Testing+%7C+SQL+%7C+Database+Testing;CI%2FCD+%7C+Jenkins+%7C+AWS;AI-Assisted+QA+%7C+GitHub+Copilot+%7C+Cursor+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva-r11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
   <a href="https://github.com/siva-r11">
     <img src="https://img.shields.io/badge/GitHub-siva--r11-181717?style=for-the-badge&logo=github" />
   </a>
@@ -184,18 +15,376 @@ I have worked on regulated enterprise applications involving:
   </a>
 </p>
 
-📧 **Email:** Sivaramsamy12@gmail.com
+---
+
+## 🧑‍💻 About Me
+
+I am a **Senior QA Automation Engineer / SDET** specializing in scalable test automation, API validation, database testing, CI/CD, and quality engineering.
+
+My experience includes designing and maintaining automation frameworks using **Selenium WebDriver + Java + Cucumber BDD** and **Playwright + TypeScript**, along with backend validation using **SQL, Oracle, PostgreSQL, MongoDB, and DynamoDB**.
+
+I enjoy turning complex business workflows into reliable automated tests and building reusable frameworks that help teams release software with greater confidence.
+
+### 🔥 My QA Engineering Focus
+
+```text
+Automation Frameworks     → Selenium | Playwright | Cucumber | POM
+Programming              → Java | TypeScript | SQL
+API Testing              → Postman | REST API | JSON | XML
+Database Testing         → Oracle | PostgreSQL | MongoDB | DynamoDB
+CI/CD                     → Jenkins | Git | Continuous Testing
+Cloud                     → AWS | CloudWatch | Lambda | Step Functions | S3
+Test Management           → Jira | Zephyr
+Methodologies             → Agile | Scrum | Kanban | SDLC | STLC
+AI-Assisted Engineering   → GitHub Copilot | Cursor AI
+```
 
 ---
 
-## 🎯 Career Focus
+## 📊 QA Automation Impact
 
-I’m interested in opportunities involving:
+<p align="center">
 
-**SDET | QA Automation Engineer | Senior QA Engineer | Test Automation | API Testing | Database Testing | Playwright | Selenium | AI-Assisted QA**
+<img src="https://img.shields.io/badge/300%2B-Automated%20Test%20Cases-2ea44f?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/~60%25-Regression%20Effort%20Reduced-0366d6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/~40%25-Faster%20Script%20Development-6f42c1?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/End--to--End-Quality%20Engineering-f9a825?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🛠️ Technology Stack
+
+## 🧪 Test Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,playwright,java,typescript,maven" />
+</p>
+
+**Selenium WebDriver • Playwright • Cucumber BDD • Page Object Model • Data-Driven Frameworks • Hybrid Frameworks • Maven**
+
+---
+
+## 🔌 API & Database Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,postgres,mongodb" />
+</p>
+
+**REST API Testing • Postman • JSON/XML Validation • Oracle SQL • PostgreSQL • MongoDB • DynamoDB • Backend Validation**
+
+---
+
+## ⚙️ CI/CD & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,aws" />
+</p>
+
+**Jenkins • Git • GitHub • Continuous Integration • Continuous Testing • Pipeline Integration • AWS**
+
+---
+
+## ☁️ AWS Validation
+
+```text
+CloudWatch       → Application logs & monitoring
+Lambda           → Serverless workflow validation
+Step Functions   → Workflow/state validation
+DynamoDB         → Backend data validation
+S3               → Event & object validation
+```
+
+---
+
+## 🤖 AI-Assisted QA Engineering
+
+I actively use AI-assisted development to improve automation productivity and test coverage.
+
+```text
+GitHub Copilot
+      ↓
+Faster automation development
+      ↓
+Better step definitions & reusable code
+
+Cursor AI
+      ↓
+Test-case generation
+      ↓
+Locator optimization
+      ↓
+Negative & boundary scenario expansion
+```
+
+---
+
+# 🚀 Featured QA Projects
+
+## 🎭 Playwright + TypeScript Framework
+
+A scalable Playwright automation framework designed for maintainability and real-world QA engineering.
+
+**Highlights**
+
+* Page Object Model
+* API testing
+* Fixtures
+* Reusable utilities
+* Environment configuration
+* Parallel execution
+* Reporting
+* CI/CD integration
+
+🔗 **Repository:**
+https://github.com/siva-r11/playwright-ts-framework
+
+---
+
+## 🥒 Selenium + Cucumber Hybrid Framework
+
+Java-based hybrid automation framework combining UI and API automation.
+
+**Tech Stack**
+
+`Java` `Selenium` `Cucumber BDD` `REST Assured` `JSON Schema` `Allure` `Jenkins`
+
+**Highlights**
+
+* BDD feature files
+* Page Object Model
+* REST API validation
+* JSON Schema validation
+* Parallel execution
+* Reporting
+* CI/CD integration
+
+🔗 **Repository:**
+https://github.com/siva-r11/cucumber-hybrid-framework
+
+---
+
+## 🏦 Playwright ParaBank Automation
+
+Practical Playwright + TypeScript automation project demonstrating end-to-end browser automation.
+
+🔗 **Repository:**
+https://github.com/siva-r11/playwright-parabank
+
+---
+
+## 🏦 ParaBank Automation
+
+Java-based Selenium automation project covering practical web application testing.
+
+🔗 **Repository:**
+https://github.com/siva-r11/Parabank-automation
+
+---
+
+## 📚 Java & Selenium Notes
+
+A practical collection of Java and Selenium concepts useful for QA automation development and SDET interview preparation.
+
+🔗 **Repository:**
+https://github.com/siva-r11/Java-Selenium-Notes
+
+---
+
+## 💳 SwiftPay Bank
+
+Demo banking application project created around realistic banking workflows and application testing.
+
+🔗 **Repository:**
+https://github.com/siva-r11/SwiftPay-Bank
+
+---
+
+# 🏢 Professional Experience
+
+### Senior QA Automation Engineer / SDET
+
+**Cognizant | Aug 2022 – Present**
+
+Working on enterprise healthcare and pharmacy applications, contributing across automation, API testing, database validation, CI/CD, AWS validation, and quality engineering.
+
+### Key Contributions
+
+✅ Designed and maintained reusable automation frameworks using **Selenium + Java + Cucumber BDD/POM**
+
+✅ Built automation solutions using **Playwright + TypeScript**
+
+✅ Automated **300+ UI and API test cases**
+
+✅ Reduced manual regression effort by approximately **60%**
+
+✅ Built reusable data-driven automation components
+
+✅ Integrated automation suites into **Jenkins CI/CD pipelines**
+
+✅ Performed backend validation using **Oracle SQL, PostgreSQL, MongoDB, and DynamoDB**
+
+✅ Validated AWS workflows involving **CloudWatch, Lambda, Step Functions, DynamoDB, and S3**
+
+✅ Performed root-cause analysis for critical defects
+
+✅ Mentored QA engineers on framework standards and automation practices
+
+✅ Used **GitHub Copilot and Cursor AI** to accelerate automation development
+
+---
+
+# 🏥 Domain Experience
+
+### Healthcare & Pharmacy
+
+Experience testing enterprise workflows involving:
+
+* Patient engagement
+* Prescription lifecycle
+* Pharmacy credentialing
+* Physician management
+* Patient onboarding
+* Shipment tracking
+* Compliance workflows
+* SMS-based patient communication
+* Backend and database validation
+
+---
+
+# 🧪 Testing Expertise
+
+```text
+Functional Testing
+       │
+       ├── Regression Testing
+       ├── Smoke Testing
+       ├── Integration Testing
+       ├── End-to-End Testing
+       ├── UAT
+       ├── API Testing
+       └── Database Testing
+```
+
+### Quality Engineering Approach
+
+**Requirement Analysis → Test Strategy → Test Design → Automation → CI/CD → Execution → Defect Analysis → Reporting → Continuous Improvement**
+
+---
+
+# 🏆 Certifications & Achievements
+
+🏆 **Vibe Code Hackathon — GitHub Copilot**
+
+Demonstrated prompt-driven development and AI-assisted automation solutions.
+
+🏆 **Claude Certified Architect – Foundations**
+
+Credential covering production-oriented development concepts involving Claude Code, Claude Agent SDK, Claude API, and MCP.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siva-r11&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" height="180" alt="Siva's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva-r11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siva-r11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📌 What You'll Find on My GitHub
+
+```text
+📂 Automation Frameworks
+📂 Selenium + Java
+📂 Playwright + TypeScript
+📂 Cucumber BDD
+📂 API Testing
+📂 SQL & Database Testing
+📂 Java Programming
+📂 SDET Interview Preparation
+📂 QA Engineering Notes
+📂 Real-world Demo Applications
+```
+
+---
+
+# 📖 Current Learning & Development
+
+### 🔹 Advanced Playwright
+
+Building scalable and maintainable Playwright frameworks with TypeScript.
+
+### 🔹 API Automation
+
+Strengthening REST API automation, validation, and integration testing.
+
+### 🔹 Database Testing
+
+Deepening SQL and backend validation skills for database testing and data-driven QA.
+
+### 🔹 AI-Assisted QA
+
+Exploring how AI can improve:
+
+* Test-case generation
+* Automation development
+* Locator strategies
+* Negative testing
+* Boundary-value analysis
+* Test maintenance
+
+---
+
+# 🎯 Career Interests
+
+I am interested in opportunities involving:
+
+**SDET • Senior QA Automation Engineer • QA Automation Engineer • Test Automation • API Testing • Database Testing • Selenium • Playwright • AI-Assisted QA**
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/siva-r11">
+    <img src="https://img.shields.io/badge/GitHub-Siva%20R-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/siva-r-243237125">
+    <img src="https://img.shields.io/badge/LinkedIn-Siva%20R-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:Sivaramsamy12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>Quality is not just about finding bugs — it's about building confidence in every release. 🚀</b>
+
+### 💡 *"Quality is not just about finding defects — it's about building confidence in every release."*
+
+⭐ **Feel free to explore my repositories and automation projects.**
+
 </p>
