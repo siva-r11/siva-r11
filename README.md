@@ -67,6 +67,7 @@ AI-Assisted Engineering   → GitHub Copilot | Cursor AI
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" />
 </p>
 
 **Selenium WebDriver • Playwright • Cucumber BDD • Page Object Model • Data-Driven Frameworks • Hybrid Frameworks • Maven**
